@@ -2,8 +2,8 @@
 //  LocationTests.swift
 //  TDD
 //
-//  Created by Faani Tabrizi Nezhaad, Mohammad (Contractor) on 11/7/16.
-//  Copyright © 2016 Faani, Mohamed. All rights reserved.
+//  Created by mohtab 11/7/16.
+//  Copyright © 2016 Mohamed. All rights reserved.
 //
 
 import XCTest

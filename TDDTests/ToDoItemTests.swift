@@ -2,8 +2,8 @@
 //  ToDoItemTests.swift
 //  TDD
 //
-//  Created by Faani Tabrizi Nezhaad, Mohammad (Contractor) on 10/24/16.
-//  Copyright © 2016 Faani, Mohamed. All rights reserved.
+//  Created by mohtab 10/24/16.
+//  Copyright © 2016 Mohamed. All rights reserved.
 //
 
 import XCTest
